@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass.set("lockedme.com.App")
+    mainClass.set("lockedme.Executable")
 }
 
 tasks.named<Test>("test") {
