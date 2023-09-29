@@ -11,7 +11,7 @@ public class Executable {
         int mainChoice, subChoice;
 
         System.out.println("╔═════════════════════════════════════════╗");
-        System.out.println("║           Welcome to Locked.me          ║");
+        System.out.println("║           Welcome to Locked.Me          ║");
         System.out.println("║         Developed by: Akshat Das        ║");
         System.out.println("║     Email Id: akshatdas31@gmail.com     ║");
         System.out.println("╚═════════════════════════════════════════╝\n");
